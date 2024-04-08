@@ -49,9 +49,9 @@ achievement_tbl = {
 		title = "North Prontera Field Exploration(1)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in north prontera field"
+			details = "Discover treasure in north Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in north prontera field" } },
+		resource = { [1] = { text = "Discover treasure in north Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -63,9 +63,9 @@ achievement_tbl = {
 		title = "North Prontera Field Exploration(2)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in north prontera field"
+			details = "Discover treasure in north Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in north prontera field" } },
+		resource = { [1] = { text = "Discover treasure in north Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -77,9 +77,9 @@ achievement_tbl = {
 		title = "North Prontera Field Exploration(3)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in north prontera field"
+			details = "Discover treasure in north Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in north prontera field" } },
+		resource = { [1] = { text = "Discover treasure in north Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -91,9 +91,9 @@ achievement_tbl = {
 		title = "West Prontera Field Exploration(1)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in west prontera field"
+			details = "Discover treasure in west Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in west prontera field" } },
+		resource = { [1] = { text = "Discover treasure in west Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -105,9 +105,9 @@ achievement_tbl = {
 		title = "West Prontera Field Exploration(2)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in west prontera field"
+			details = "Discover treasure in west Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in west prontera field" } },
+		resource = { [1] = { text = "Discover treasure in west Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -119,9 +119,9 @@ achievement_tbl = {
 		title = "East Prontera Field Exploration",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in east prontera field"
+			details = "Discover treasure in east Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in east prontera field" } },
+		resource = { [1] = { text = "Discover treasure in east Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -133,9 +133,9 @@ achievement_tbl = {
 		title = "South Prontera Field Exploration(1)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in south prontera field"
+			details = "Discover treasure in south Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in south prontera field" } },
+		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -147,9 +147,9 @@ achievement_tbl = {
 		title = "South Prontera Field Exploration(2)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in south prontera field"
+			details = "Discover treasure in south Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in south prontera field" } },
+		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -161,9 +161,9 @@ achievement_tbl = {
 		title = "South Prontera Field Exploration(3)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in south prontera field"
+			details = "Discover treasure in south Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in south prontera field" } },
+		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -175,9 +175,9 @@ achievement_tbl = {
 		title = "South Prontera Field Exploration(4)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in south prontera field"
+			details = "Discover treasure in south Prontera field"
 		},
-		resource = { [1] = { text = "Discover treasure in south prontera field" } },
+		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
