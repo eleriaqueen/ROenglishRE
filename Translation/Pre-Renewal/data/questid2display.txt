@@ -529,7 +529,7 @@ Talk with 'Castanea', Raccoon Hurray Team Member in geffen square.#
 
 1200#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Got shining colorful beads from Castanea. Let's back to 'Quercus'.#
-Talk with 'Quercus', Raccoon Hurray Team Member in prontera square.#
+Talk with 'Quercus', Raccoon Hurray Team Member in Prontera square.#
 
 1201#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Time to consider what a sock-like as a storage for present is. Find 'Pyrus', the raccoon who's unstable with love in geffen square.#
@@ -549,7 +549,7 @@ Talk with 'Kaki', Raccoon Hurray Team Member in geffen square.#
 
 1205#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Got the star shape decoration. Let's back to 'Quercus'.#
-Talk with 'Quercus', Raccoon Hurray Team Member in prontera square.#
+Talk with 'Quercus', Raccoon Hurray Team Member in Prontera square.#
 
 1206#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Quercus ordering reliable investigation into the gift to be received. Let's go Santa's home in Lutie and meet up with the Little Santa.#
@@ -581,7 +581,7 @@ Talk with the Little Santa at Santa's home in Lutie.#
 
 1213#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Seems the raccoons are satisfied enough with the nice sweet popatoes gift. Let's give this message to Quercus.#
-Talk with 'Quercus', Raccoon Hurray Team Member in prontera square.#
+Talk with 'Quercus', Raccoon Hurray Team Member in Prontera square.#
 
 
 //----------EP14.2 Find Professor Worm's Memory
@@ -844,7 +844,7 @@ Raccoon Hooray Clerk seems to be in trouble you should visit him and listen to w
 Speak to Raccoon Hooray Clerk#
 
 1278#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-you've decided to help Christmas special activity of Raccoon Hooray Team instead of Racoon hooray clerk. you should visit prontera to meet Raccoon Hooray Team Captain.#
+you've decided to help Christmas special activity of Raccoon Hooray Team instead of Racoon hooray clerk. you should visit Prontera to meet Raccoon Hooray Team Captain.#
 Speak to Raccoon Hooray Captain#
 
 1279#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
@@ -3724,7 +3724,7 @@ The 3rd receipt is complete, come back tomorrow to collect the gift.#
 // Christmas Event
 
 4357#Hunt Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
-Kill 3 Santa Lunatic, near fields of prontera and geffen#
+Kill 3 Santa Lunatic, near fields of Prontera and geffen#
 #
 
 4358#Hunt Santa Goblin#SG_FEEL#QUE_NOIMAGE#
@@ -10875,7 +10875,7 @@ Conversation with 'Catherine'#
 //------------------------------알림 이벤트 No.1----------------------------------
 // 프론테라 - 아인브로크의 심부름꾼
 9024#An errand boy from Einbroch#SG_FEEL#QUE_NOIMAGE#
-Help an errand who comes to prontera from Ainbroc for finding jellopy.#
+Help an errand who comes to Prontera from Ainbroc for finding jellopy.#
 Collect 100 jellopy and go back to 'an errand'.#
 
 // 오현석------ 이상한 쥐-------------------
