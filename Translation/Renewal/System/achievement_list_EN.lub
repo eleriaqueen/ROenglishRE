@@ -189,9 +189,9 @@ achievement_tbl = {
 		title = "East Geffen Field Exploration",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in east geffen field"
+			details = "Discover treasure in east Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in east geffen field" } },
+		resource = { [1] = { text = "Discover treasure in east Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -203,9 +203,9 @@ achievement_tbl = {
 		title = "Southeast Geffen Field Exploration",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in southeast geffen field"
+			details = "Discover treasure in southeast Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in southeast geffen field" } },
+		resource = { [1] = { text = "Discover treasure in southeast Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -217,9 +217,9 @@ achievement_tbl = {
 		title = "Northwest Geffen Field Exploration(1)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in northwest geffen field"
+			details = "Discover treasure in northwest Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in northwest geffen field" } },
+		resource = { [1] = { text = "Discover treasure in northwest Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -231,9 +231,9 @@ achievement_tbl = {
 		title = "Northwest Geffen Field Exploration(2)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in northwest geffen field"
+			details = "Discover treasure in northwest Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in northwest geffen field" } },
+		resource = { [1] = { text = "Discover treasure in northwest Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -245,9 +245,9 @@ achievement_tbl = {
 		title = "Northwest Geffen Field Exploration(3)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in northwest geffen field"
+			details = "Discover treasure in northwest Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in northwest geffen field" } },
+		resource = { [1] = { text = "Discover treasure in northwest Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -259,9 +259,9 @@ achievement_tbl = {
 		title = "South Geffen Field Exploration(1)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in south geffen field"
+			details = "Discover treasure in south Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in south geffen field" } },
+		resource = { [1] = { text = "Discover treasure in south Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -273,9 +273,9 @@ achievement_tbl = {
 		title = "South Geffen Field Exploration(2)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in south geffen field"
+			details = "Discover treasure in south Geffen field"
 		},
-		resource = { [1] = { text = "Discover treasure in south geffen field" } },
+		resource = { [1] = { text = "Discover treasure in south Geffen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -1757,9 +1757,9 @@ achievement_tbl = {
 		title = "Geffen Underground Dungeon Exploration",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in geffen underground dungeon"
+			details = "Discover treasure in Geffen underground dungeon"
 		},
-		resource = { [1] = { text = "Discover treasure in geffen underground dungeon" } },
+		resource = { [1] = { text = "Discover treasure in Geffen underground dungeon" } },
 		reward = { item = 22876 },
 		score = 20
 	},

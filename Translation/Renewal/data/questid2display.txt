@@ -491,44 +491,44 @@ Collect 10 pieces of red fabric, by catching raccoon socks hurray team in field.
 Talk with "Quercus", Raccoon Hurray Team Member in Prontera square #
 
 1195#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
-Time to consider what a sock-like as a storage for present is. Find Castanea, the raccoon who's busy with dating in geffen square.#
-Talk with "Castanea", Raccoon Hurray Team Member in geffen square#
+Time to consider what a sock-like as a storage for present is. Find Castanea, the raccoon who's busy with dating in Geffen square.#
+Talk with "Castanea", Raccoon Hurray Team Member in Geffen square#
 
 1196#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
-Street stalls at the end of east geffen. Find the gift from the corner of the Ghez(Young Woman) behind.#
-Street stalls at the end of east geffen. Near by the raccoon, "Bean"#
+Street stalls at the end of east Geffen. Find the gift from the corner of the Ghez(Young Woman) behind.#
+Street stalls at the end of east Geffen. Near by the raccoon, "Bean"#
 
 1197#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Found out the gift, striped socks. Let's back to Castanea.#
-Talk with "Castanea", Raccoon Hurray Team Member in geffen square#
+Talk with "Castanea", Raccoon Hurray Team Member in Geffen square#
 
 1198#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
-After finding the gift wrapper in wooden pail of flower garden at the end of west geffen, wrap the gift.#
-In west geffen. Near by the raccoon, "Pinus"#
+After finding the gift wrapper in wooden pail of flower garden at the end of west Geffen, wrap the gift.#
+In west Geffen. Near by the raccoon, "Pinus"#
 
 1199#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Wrapping compeleted! Let's back to Castanea.#
-Talk with "Castanea", Raccoon Hurray Team Member in geffen square#
+Talk with "Castanea", Raccoon Hurray Team Member in Geffen square#
 
 1200#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Got shining colorful beads from Castanea. Let's back to "Quercus".#
 Talk with "Quercus", Raccoon Hurray Team Member in Prontera square#
 
 1201#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
-Time to consider what a sock-like as a storage for present is. Find "Pyrus", the raccoon who's unstable with love in geffen square.#
-Talk with "Pyrus", Raccoon Hurray Team Member in geffen square#
+Time to consider what a sock-like as a storage for present is. Find "Pyrus", the raccoon who's unstable with love in Geffen square.#
+Talk with "Pyrus", Raccoon Hurray Team Member in Geffen square#
 
 1202#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Worried about the raccoon couple arguing. Let's catch Raccoon Hurray Team members in field and collect 5 pieces of stolen candies and stolen cookies each.#
-Talk with "Pyrus", Raccoon Hurray Team Member in geffen square#
+Talk with "Pyrus", Raccoon Hurray Team Member in Geffen square#
 
 1203#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
-Get the clothes from "Citrus" nearby "Sage Welshyun" in north geffen.#
-Talk with "Citrus", Raccoon Hurray Team Member in north geffen#
+Get the clothes from "Citrus" nearby "Sage Welshyun" in north Geffen.#
+Talk with "Citrus", Raccoon Hurray Team Member in north Geffen#
 
 1204#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Got a red package from "Citrus". Let's deliver this to raccoon, "Kaki".#
-Talk with "Kaki", Raccoon Hurray Team Member in geffen square#
+Talk with "Kaki", Raccoon Hurray Team Member in Geffen square#
 
 1205#Look out the window, Cheers for Raccoon Hurray team!#SG_FEEL#QUE_NOIMAGE#
 Got the star shape decoration. Let's back to "Quercus".#
@@ -3599,7 +3599,7 @@ A request from Blacksmith Antonio. Collect 30 Dokebi Horn and 30 Trunks and he w
 Collect 30 Trunk, 30 Dokebi Horn#
 
 3265#Request - Missing occult mania#SG_FEEL#QUE_NOIMAGE#
-A request from a place taking request. You found a missing boy in the first floor of geffen dungeon, so go back to a place taking request for reporting.#
+A request from a place taking request. You found a missing boy in the first floor of Geffen dungeon, so go back to a place taking request for reporting.#
 #
 
 4000#Sherin's Job Interview#SG_FEEL#QUE_NOIMAGE#
@@ -4463,7 +4463,7 @@ Wait until the timer has expired to try again#
 #
 
 4357#Hunt Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
-Defeat 3 Santa Lunatic, near fields of Prontera and geffen#
+Defeat 3 Santa Lunatic, near fields of Prontera and Geffen#
 #
 
 4358#Hunt Santa Goblin#SG_FEEL#QUE_NOIMAGE#
