@@ -16429,7 +16429,7 @@ Today's mission success. Let's come back after one day.#
 #
 
 13143#Egnigem Story#SG_FEEL#QUE_NOIMAGE#
-Let's find Egnigem Cenia's story in lighthalzen#
+Let's find Egnigem Cenia's story in Lighthalzen#
 Eliminate 30 Egnigem Cenia#
 
 13144#Egnigem Story - Wait#SG_FEEL#QUE_NOIMAGE#
@@ -16437,7 +16437,7 @@ Maybe there is more information to know.#
 #
 
 13145#Armeyer Story#SG_FEEL#QUE_NOIMAGE#
-Let's find Armeyer Dinze's story in lighthalzen#
+Let's find Armeyer Dinze's story in Lighthalzen#
 Eliminate 30 Armeyer Dinze#
 
 13146#Armeyer Story - Wait#SG_FEEL#QUE_NOIMAGE#
@@ -16445,7 +16445,7 @@ Maybe there is more information to know.#
 #
 
 13147#Whikebain Story#SG_FEEL#QUE_NOIMAGE#
-Let's find Wickebine Tres' story in lighthalzen#
+Let's find Wickebine Tres' story in Lighthalzen#
 Eliminate 30 Wickebine Tres#
 
 13148#Whikebain Story - Wait#SG_FEEL#QUE_NOIMAGE#
@@ -16453,7 +16453,7 @@ Maybe there is more information to know.#
 #
 
 13149#Kavach Story#SG_FEEL#QUE_NOIMAGE#
-Let's find Kavach Icarus's story in lighthalzen#
+Let's find Kavach Icarus's story in Lighthalzen#
 Eliminate 30 Kavach Icarus#
 
 13150#Kavach Story - Wait#SG_FEEL#QUE_NOIMAGE#
@@ -16461,7 +16461,7 @@ Maybe there is more information to know.#
 #
 
 13151#Errende Story#SG_FEEL#QUE_NOIMAGE#
-Let's find Errende Ebecee's story in lighthalzen#
+Let's find Errende Ebecee's story in Lighthalzen#
 Eliminate 30 Errende Ebecee#
 
 13152#Errende Story - Wait#SG_FEEL#QUE_NOIMAGE#
@@ -16469,7 +16469,7 @@ Maybe there is more information to know.#
 #
 
 13153#Laurell Story#SG_FEEL#QUE_NOIMAGE#
-Let's find  Laurell Weinder's story in lighthalzen#
+Let's find  Laurell Weinder's story in Lighthalzen#
 Eliminate 30 Laurell Weinder#
 
 13154#Laurell Story - Wait#SG_FEEL#QUE_NOIMAGE#
