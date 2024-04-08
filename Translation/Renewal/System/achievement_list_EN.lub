@@ -1085,9 +1085,9 @@ achievement_tbl = {
 		title = "Lighthalzen Field Exploration(1)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in lighthalzen field"
+			details = "Discover treasure in Lighthalzen field"
 		},
-		resource = { [1] = { text = "Discover treasure in lighthalzen field" } },
+		resource = { [1] = { text = "Discover treasure in Lighthalzen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
@@ -1099,9 +1099,9 @@ achievement_tbl = {
 		title = "Lighthalzen Field Exploration(2)",
 		content = {
 			summary = "Discover hidden treasure",
-			details = "Discover treasure in lighthalzen field"
+			details = "Discover treasure in Lighthalzen field"
 		},
-		resource = { [1] = { text = "Discover treasure in lighthalzen field" } },
+		resource = { [1] = { text = "Discover treasure in Lighthalzen field" } },
 		reward = { item = 22876 },
 		score = 10
 	},
