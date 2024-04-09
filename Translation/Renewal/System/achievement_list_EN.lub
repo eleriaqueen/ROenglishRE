@@ -3540,7 +3540,7 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Master Job level!",
+		title = "Job Level Master!",
 		content = {
 			summary = "Achieve Job Level 50!",
 			details = "Achieve job level 50."
@@ -3554,7 +3554,7 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Grandmaster Job level!",
+		title = "Job Level Grandmaster!",
 		content = {
 			summary = "Achieve Job Level 70!",
 			details = "Achieve job level 70."
@@ -3582,12 +3582,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "First step of job change!",
+		title = "First Job Change!",
 		content = {
-			summary = "First step of job change",
+			summary = "Job change to first class",
 			details = "Acolyte, Merchant, Swordman, Mage, Thief or Archer."
 		},
-		resource = { [1] = { text = "First step of job change" } },
+		resource = { [1] = { text = "Job change to first class" } },
 		reward = { buff = 12 },
 		score = 20
 	},
@@ -3668,10 +3668,10 @@ achievement_tbl = {
 		minor = 0,
 		title = "Transcendentaler! (1)",
 		content = {
-			summary = "Job change to 3-1 classes after transcendent",
-			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger after transcendent."
+			summary = "Job change to 3-1 classes after becoming transcendent",
+			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger after becoming transcendent."
 		},
-		resource = { [1] = { text = "Job change to 3-1 classes after transcendent" } },
+		resource = { [1] = { text = "Job change to 3-1 classes after becoming transcendent" } },
 		reward = { buff = 12, item = 16483 },
 		score = 60
 	},
@@ -3696,10 +3696,10 @@ achievement_tbl = {
 		minor = 0,
 		title = "Transcendentaler! (2)",
 		content = {
-			summary = "Job change to 3-2 classes after transcendent",
-			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer after transcendent."
+			summary = "Job change to 3-2 classes after becoming transcendent",
+			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer after becoming transcendent."
 		},
-		resource = { [1] = { text = "Job change to 3-2 classes after transcendent" } },
+		resource = { [1] = { text = "Job change to 3-2 classes after becoming transcendent" } },
 		reward = { buff = 12, item = 16483 },
 		score = 60
 	},
@@ -3708,7 +3708,7 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "The way of exceptional character",
+		title = "An exceptional path",
 		content = {
 			summary = "Job change to expanded classes",
 			details = "Taekwondo, Gunslinger, Super Novice or Ninja."
@@ -3750,7 +3750,7 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Overflowing Magic!",
+		title = "Overflowing with Magic!",
 		content = {
 			summary = "Achieve base INT 90",
 			details = "Achieve 90 base INT or higher."
@@ -3764,7 +3764,7 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Healthy Body and Mental Health!",
+		title = "A Healthy Body and a Sound Mind!",
 		content = {
 			summary = "Achieve base VIT 90",
 			details = "Achieve 90 base VIT or higher."
@@ -3876,7 +3876,7 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Falcon's Eyes",
+		title = "Falcon Eyes",
 		content = {
 			summary = "Achieve base DEX 125",
 			details = "Achieve 125 base DEX or higher."
@@ -4067,7 +4067,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Monster Girls Unite!!",
 		content = {
-			summary = "Complete all objective tasks",
+			summary = "Complete all objectives",
 			details = "You're awakened with the idea of becoming the producer of monster girls!"
 		},
 		resource = {
@@ -4090,7 +4090,7 @@ achievement_tbl = {
 		title = "Poring - taming",
 		content = {
 			summary = "Successfully tame a Poring",
-			details = "Let's get a Poring pet. You can use 'Unripe Apple'."
+			details = "Get a Poring pet. Use 'Unripe Apple' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Poring" } },
 		reward = {},
@@ -4104,7 +4104,7 @@ achievement_tbl = {
 		title = "Drops - taming",
 		content = {
 			summary = "Successfully tame a Drops",
-			details = "Let's get a Drops pet. You can use 'Orange Juice'."
+			details = "Get a Drops pet. Use 'Orange Juice' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Drops" } },
 		reward = {},
@@ -4118,7 +4118,7 @@ achievement_tbl = {
 		title = "Poporing - taming",
 		content = {
 			summary = "Successfully tame a Poporing",
-			details = "Let's get a Poporing pet. You can use 'Bitter Herb'."
+			details = "Get a Poporing pet. Use 'Bitter Herb' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Poporing" } },
 		reward = {},
@@ -4132,7 +4132,7 @@ achievement_tbl = {
 		title = "Novice Poring - taming",
 		content = {
 			summary = "Successfully tame a Novice Poring",
-			details = "Let's get a Novice Poring pet. You can use 'Little Unripe Apple'."
+			details = "Get a Novice Poring pet. Use 'Little Unripe Apple' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Novice Poring" } },
 		reward = {},
@@ -4146,7 +4146,7 @@ achievement_tbl = {
 		title = "Chonchon - taming",
 		content = {
 			summary = "Successfully tame a Chonchon",
-			details = "Let's get a Chonchon pet. You can use 'Rotten Fish'."
+			details = "Get a Chonchon pet. Use 'Rotten Fish' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Chonchon" } },
 		reward = {},
@@ -4160,7 +4160,7 @@ achievement_tbl = {
 		title = "Steel Chonchon - taming",
 		content = {
 			summary = "Successfully tame a Steel Chonchon",
-			details = "Let's get a Steel Chonchon pet. You can use 'Rusty Iron'."
+			details = "Get a Steel Chonchon pet. Use 'Rusty Iron' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Steel Chonchon" } },
 		reward = {},
@@ -4174,7 +4174,7 @@ achievement_tbl = {
 		title = "Hunter Fly - taming",
 		content = {
 			summary = "Successfully tame a Hunter Fly",
-			details = "Let's get a Hunter Fly pet. You can use 'Monster Juice'."
+			details = "Get a Hunter Fly pet. Use 'Monster Juice' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Hunter Fly" } },
 		reward = {},
@@ -4188,7 +4188,7 @@ achievement_tbl = {
 		title = "Rocker - taming",
 		content = {
 			summary = "Successfully tame a Rocker",
-			details = "Let's get a Rocker pet. You can use 'Singing Flower'."
+			details = "Get a Rocker pet. Use 'Singing Flower' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Rocker" } },
 		reward = {},
@@ -4202,7 +4202,7 @@ achievement_tbl = {
 		title = "Spore - taming",
 		content = {
 			summary = "Successfully tame a Spore",
-			details = "Let's get a Spore pet. You can use 'Dew Laden Moss'."
+			details = "Get a Spore pet. Use 'Dew Laden Moss' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Spore" } },
 		reward = {},
@@ -4216,7 +4216,7 @@ achievement_tbl = {
 		title = "Poison Spore - taming",
 		content = {
 			summary = "Successfully tame a Poison Spore",
-			details = "Let's get a Poison Spore pet. You can use 'Deadly Noxious Herb'."
+			details = "Get a Poison Spore pet. Use 'Deadly Noxious Herb' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Poison Spore" } },
 		reward = {},
@@ -4230,7 +4230,7 @@ achievement_tbl = {
 		title = "Lunatic - taming",
 		content = {
 			summary = "Successfully tame a Lunatic",
-			details = "Let's get a Lunatic pet. You can use 'Rainbow Carrot'."
+			details = "Get a Lunatic pet. Use 'Rainbow Carrot' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Lunatic" } },
 		reward = {},
@@ -4244,7 +4244,7 @@ achievement_tbl = {
 		title = "Picky - taming",
 		content = {
 			summary = "Successfully tame a Picky",
-			details = "Let's get a Picky pet. You can use 'Earthworm the Dude'."
+			details = "Get a Picky pet. Use 'Earthworm the Dude' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Picky" } },
 		reward = {},
@@ -4258,7 +4258,7 @@ achievement_tbl = {
 		title = "Savage Bebe - taming",
 		content = {
 			summary = "Successfully tame a Savage Bebe",
-			details = "Let's get a Savage Bebe pet. You can use 'Sweet Milk'."
+			details = "Get a Savage Bebe pet. Use 'Sweet Milk' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Savage Bebe" } },
 		reward = {},
@@ -4272,7 +4272,7 @@ achievement_tbl = {
 		title = "Baby Desert Wolf - taming",
 		content = {
 			summary = "Successfully tame a Baby Desert Wolf",
-			details = "Let's get a Baby Desert Wolf pet. You can use 'Well-Dried Bone'."
+			details = "Get a Baby Desert Wolf pet. Use 'Well-Dried Bone' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Baby Desert Wolf" } },
 		reward = {},
@@ -4286,7 +4286,7 @@ achievement_tbl = {
 		title = "Smokie - taming",
 		content = {
 			summary = "Successfully tame a Smokie",
-			details = "Let's get a Smokie pet. You can use 'Baked Yam'."
+			details = "Get a Smokie pet. Use 'Baked Yam' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Smokie" } },
 		reward = {},
@@ -4300,7 +4300,7 @@ achievement_tbl = {
 		title = "Yoyo - taming",
 		content = {
 			summary = "Successfully tame a Yoyo",
-			details = "Let's get a Yoyo pet. You can use 'Tropical Banana'."
+			details = "Get a Yoyo pet. Use 'Tropical Banana' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Yoyo" } },
 		reward = {},
@@ -4314,7 +4314,7 @@ achievement_tbl = {
 		title = "Peco Peco - taming",
 		content = {
 			summary = "Successfully tame a Peco Peco",
-			details = "Let's get a Peco Peco pet. You can use 'Fatty Chubby Earthworm'."
+			details = "Get a Peco Peco pet. Use 'Fatty Chubby Earthworm' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Peco Peco" } },
 		reward = {},
@@ -4328,7 +4328,7 @@ achievement_tbl = {
 		title = "Petite - taming",
 		content = {
 			summary = "Successfully tame a Petite",
-			details = "Let's get a Petite pet. You can use 'Shining Stone'."
+			details = "Get a Petite pet. Use 'Shining Stone' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Petite" } },
 		reward = {},
@@ -4342,7 +4342,7 @@ achievement_tbl = {
 		title = "Munak - taming",
 		content = {
 			summary = "Successfully tame a Munak",
-			details = "Let's get a Munak pet. You can use 'No Recipient'."
+			details = "Get a Munak pet. Use 'No Recipient' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Munak" } },
 		reward = {},
@@ -4356,7 +4356,7 @@ achievement_tbl = {
 		title = "Isis - taming",
 		content = {
 			summary = "Successfully tame an Isis",
-			details = "Let's get an Isis pet. You can use 'Armlet of Obedience'."
+			details = "Get an Isis pet. Use 'Armlet of Obedience' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame an Isis" } },
 		reward = {},
@@ -4370,7 +4370,7 @@ achievement_tbl = {
 		title = "Sohee - taming",
 		content = {
 			summary = "Successfully tame a Sohee",
-			details = "Let's get a Sohee pet. You can use 'Silver Knife of Chastity'."
+			details = "Get a Sohee pet. Use 'Silver Knife of Chastity' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Sohee" } },
 		reward = {},
@@ -4384,7 +4384,7 @@ achievement_tbl = {
 		title = "Zherlthsh - taming",
 		content = {
 			summary = "Successfully tame a Zherlthsh",
-			details = "Let's get a Zherlthsh pet. You can use 'Forbidden Red Candle'."
+			details = "Get a Zherlthsh pet. Use 'Forbidden Red Candle' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Zherlthsh" } },
 		reward = {},
@@ -4398,7 +4398,7 @@ achievement_tbl = {
 		title = "Alice - taming",
 		content = {
 			summary = "Successfully tame an Alice",
-			details = "Let's get an Alice pet. You can use 'Soft Apron'."
+			details = "Get an Alice pet. Use 'Soft Apron' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame an Alice" } },
 		reward = {},
@@ -4412,7 +4412,7 @@ achievement_tbl = {
 		title = "Succubus - taming",
 		content = {
 			summary = "Successfully tame a Succubus",
-			details = "Let's get a Succubus pet. You can use 'Boy's Pure Heart'."
+			details = "Get a Succubus pet. Use 'Boy's Pure Heart' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Succubus" } },
 		reward = {},
@@ -4426,7 +4426,7 @@ achievement_tbl = {
 		title = "Loli Ruri - taming",
 		content = {
 			summary = "Successfully tame a Loli Ruri",
-			details = "Let's get a Loli Ruri pet. You can use 'Very Red Juice'."
+			details = "Get a Loli Ruri pet. Use 'Very Red Juice' to befriend it."
 		},
 		resource = { [1] = { text = "Successfully tame a Loli Ruri" } },
 		reward = {},
@@ -4437,10 +4437,10 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 1,
 		minor = 2,
-		title = "Start Community",
+		title = "Start Chatting",
 		content = {
 			summary = "Create a chatroom",
-			details = "Let's create a chatroom. Press keyboard shortcut Alt+C."
+			details = "Create a chatroom. Press keyboard shortcut Alt+C."
 		},
 		resource = { [1] = { text = "Create a chatroom" } },
 		reward = {},
@@ -4453,10 +4453,10 @@ achievement_tbl = {
 		minor = 2,
 		title = "Grim Chatterbox",
 		content = {
-			summary = "Create a chatroom when KO'ed",
-			details = "Create a chatroom when KO'ed. Press keyboard shortcut Alt+C."
+			summary = "Create a chatroom after getting KO'ed",
+			details = "Create a chatroom after getting KO'ed. Press keyboard shortcut Alt+C."
 		},
-		resource = { [1] = { text = "Create a chatroom when KO'ed" } },
+		resource = { [1] = { text = "Create a chatroom after getting KO'ed" } },
 		reward = {},
 		score = 10
 	},
@@ -4467,10 +4467,10 @@ achievement_tbl = {
 		minor = 2,
 		title = "Chattering Away",
 		content = {
-			summary = "Fill the chatroom with 20 people",
-			details = "Gather people and start chatting. Fill the chatroom with 20 people."
+			summary = "Fill a chatroom with 20 people",
+			details = "Gather people and start chatting. Fill a chatroom with 20 people."
 		},
-		resource = { [1] = { text = "Fill the chatroom with 20 people" } },
+		resource = { [1] = { text = "Fill a chatroom with 20 people" } },
 		reward = {},
 		score = 10
 	},
@@ -4481,8 +4481,8 @@ achievement_tbl = {
 		minor = 2,
 		title = "Friend~ Friend~",
 		content = {
-			summary = "Add 1 person as a friend",
-			details = "Let's recruit a friend and start a journey together. Add 1 person as a friend."
+			summary = "Add 1 friend",
+			details = "Recruit a friend and start a journey together. Add 1 friend."
 		},
 		resource = { [1] = { text = "Add 1 person as a friend" } },
 		reward = {},
@@ -4493,12 +4493,12 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Popular person",
+		title = "Famous",
 		content = {
-			summary = "Add 10 person as a friend",
-			details = "Let's recruit a friend and start a journey together. Add 10 person as a friend."
+			summary = "Add 10 friends",
+			details = "Recruit friends and start a journey together. Add 10 friends."
 		},
-		resource = { [1] = { text = "Add 10 person as a friend" } },
+		resource = { [1] = { text = "Add 10 friends" } },
 		reward = {},
 		score = 10
 	},
@@ -4521,12 +4521,12 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "Did you marry..?",
+		title = "Will you marry me?",
 		content = {
-			summary = "Succeed on marriage",
-			details = "Living in this world is tough, let's fill it with love. Let's get married with someone you love."
+			summary = "Get married",
+			details = "Living alone in this world is tough. Get married with someone you love."
 		},
-		resource = { [1] = { text = "Succeed on marriage" } },
+		resource = { [1] = { text = "Get married" } },
 		reward = { title = 1022 },
 		score = 20
 	},
@@ -4537,10 +4537,10 @@ achievement_tbl = {
 		minor = 2,
 		title = "Can you raise me?",
 		content = {
-			summary = "Adopted by parent",
-			details = "Overcome the tough world with the help of parents."
+			summary = "Get adopted",
+			details = "The world is harsh, parents are here to help."
 		},
-		resource = { [1] = { text = "Adopted by parent" } },
+		resource = { [1] = { text = "Get adopted" } },
 		reward = { title = 1032 },
 		score = 20
 	},
@@ -4549,10 +4549,10 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Being a parent",
+		title = "Become a parent",
 		content = {
 			summary = "Adopt a child",
-			details = "Get a happy child and create a beautiful family story through adoption."
+			details = "Go through with adoption and create beautiful memories with your family."
 		},
 		resource = { [1] = { text = "Adopt a child" } },
 		reward = { title = 1033 },
@@ -4633,7 +4633,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (1)",
+		title = "I can't quit refining! (1)",
 		content = {
 			summary = "Successfully refine a level 1 weapon to +7",
 			details = "Where is my luck? Successfully refine a level 1 weapon to +7."
@@ -4647,7 +4647,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (2)",
+		title = "I can't quit refining! (2)",
 		content = {
 			summary = "Successfully refine a level 1 weapon to +12",
 			details = "Where is my luck? Successfully refine a level 1 weapon to +12."
@@ -4661,7 +4661,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (3)",
+		title = "I can't quit refining! (3)",
 		content = {
 			summary = "Successfully refine a level 2 weapon to +7",
 			details = "Where is my luck? Successfully refine a level 2 weapon to +7."
@@ -4675,7 +4675,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (4)",
+		title = "I can't quit refining! (4)",
 		content = {
 			summary = "Successfully refine a level 2 weapon to +12",
 			details = "Where is my luck? Successfully refine a level 2 weapon to +12."
@@ -4689,7 +4689,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (5)",
+		title = "I can't quit refining! (5)",
 		content = {
 			summary = "Successfully refine a level 3 weapon to +7",
 			details = "Where is my luck? Successfully refine a level 3 weapon to +7."
@@ -4703,7 +4703,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (6)",
+		title = "I can't quit refining! (6)",
 		content = {
 			summary = "Successfully refine a level 3 weapon to +12",
 			details = "Where is my luck? Successfully refine a level 3 weapon to +12."
@@ -4717,7 +4717,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (7)",
+		title = "I can't quit refining! (7)",
 		content = {
 			summary = "Successfully refine a level 4 weapon to +7",
 			details = "Where is my luck? Successfully refine a level 4 weapon to +7."
@@ -4731,7 +4731,7 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (8)",
+		title = "I can't quit refining! (8)",
 		content = {
 			summary = "Successfully refine a level 4 weapon to +12",
 			details = "Where is my luck? Successfully refine a level 4 weapon to +12."
@@ -4745,12 +4745,12 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "Human's greed has no end..",
+		title = "Human greed is eternal...",
 		content = {
-			summary = "Experience the fail of refining",
-			details = "Human's greed has no end and it's always repeat. But let's take a lesson from the mistake. Experience the fail of refining."
+			summary = "Experience failure when refining an item",
+			details = "Human greed is boundless and eternal. But we should learn from our mistakes. Experience failure when refining an item."
 		},
-		resource = { [1] = { text = "Experience the fail of refining" } },
+		resource = { [1] = { text = "Experience failure when refining an item" } },
 		reward = {},
 		score = 10
 	},
@@ -4762,7 +4762,7 @@ achievement_tbl = {
 		title = "I found it! (1)",
 		content = {
 			summary = "Obtain an item that worth more than 100 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 100 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 100 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 100 zeny" } },
 		reward = {},
@@ -4776,7 +4776,7 @@ achievement_tbl = {
 		title = "I found it! (2)",
 		content = {
 			summary = "Obtain an item that worth more than 1,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 1,000 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 1,000 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 1,000 zeny" } },
 		reward = {},
@@ -4790,7 +4790,7 @@ achievement_tbl = {
 		title = "I found it! (3)",
 		content = {
 			summary = "Obtain an item that worth more than 5,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 5,000 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 5,000 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 5,000 zeny" } },
 		reward = {},
@@ -4804,7 +4804,7 @@ achievement_tbl = {
 		title = "I found it! (4)",
 		content = {
 			summary = "Obtain an item that worth more than 10,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 10,000 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 10,000 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 10,000 zeny" } },
 		reward = {},
@@ -4818,7 +4818,7 @@ achievement_tbl = {
 		title = "I found it! (5)",
 		content = {
 			summary = "Obtain an item that worth more than 50,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 50,000 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 50,000 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 50,000 zeny" } },
 		reward = {},
@@ -4832,7 +4832,7 @@ achievement_tbl = {
 		title = "I found it! (6)",
 		content = {
 			summary = "Obtain an item that worth more than 100,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 100,000 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 100,000 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 100,000 zeny" } },
 		reward = {},
@@ -4846,7 +4846,7 @@ achievement_tbl = {
 		title = "I found it! (7)",
 		content = {
 			summary = "Obtain an item that worth more than 150,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 150,000 zeny when sold to an NPC."
+			details = "What a lucky day for me! Obtain an item that worth more than 150,000 zeny when sold to an NPC."
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 150,000 zeny" } },
 		reward = {},
@@ -4943,13 +4943,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Poring seeker",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "Poring is a strange creature, neither plant nor animal. To learn more about Poring, the best way is to experience face-to-face interaction."
+			summary = "Complete all objectives",
+			details = "A Poring is a strange creature, neither plant nor animal. The best way to learn about porings is to fight them."
 		},
 		resource = {
-			[1] = { text = "Complete 'Exploring Poring's life (1)' challenge", shortcut = 230201 },
-			[2] = { text = "Complete 'Exploring Poring's life (2)' challenge", shortcut = 230202 },
-			[3] = { text = "Complete 'Exploring Poring's life (3)' challenge", shortcut = 230203 }
+			[1] = { text = "Complete 'Poring Investigation (1)' challenge", shortcut = 230201 },
+			[2] = { text = "Complete 'Poring Investigation (2)' challenge", shortcut = 230202 },
+			[3] = { text = "Complete 'Poring Investigation (3)' challenge", shortcut = 230203 }
 		},
 		reward = {},
 		score = 10
@@ -4959,10 +4959,10 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (1)",
+		title = "Poring Investigation (1)",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "The appearance of porings affected by their habitat. Let's face an easy opponent."
+			summary = "Hunt the targets",
+			details = "The appearance of porings changes with their habitat. Let's face some easy ones first."
 		},
 		resource = {
 			[1] = { text = "Hunt 10 Poring", count = 10 },
@@ -4979,10 +4979,10 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (2)",
+		title = "Poring Investigation (2)",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "There is also a strong one in Poring world. Let's not directly face the strong one."
+			summary = "Hunt the targets",
+			details = "There are also strong porings out there. Let's see how strong they are."
 		},
 		resource = {
 			[1] = { text = "Hunt 1 Mastering", count = 1 },
@@ -4999,10 +4999,10 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (3)",
+		title = "Poring Investigation (3)",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "In Poring family, there are porings that have a glowing appearance. A further research is required."
+			summary = "Hunt the targets",
+			details = "Some members of the Poring family have a glowy appearance. Further research is required."
 		},
 		resource = {
 			[1] = { text = "Hunt 5 Metalring", count = 5 },
